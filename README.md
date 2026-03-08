@@ -1,1 +1,1 @@
-# aux_chess_by_ruven_bals.arifiel.github.io
+# Zero Effort Auxetic Chess by Ruven Bals
